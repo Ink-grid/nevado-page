@@ -1,0 +1,18 @@
+/** @format */
+
+.megamenu-li {
+	position: static;
+}
+
+.megamenu {
+	position: absolute;
+	width: 70% !important;
+	left: 15%;
+	top: 85%;
+	/* right: 0; */
+	padding: 15px;
+}
+
+.dropdowns {
+	color: 'red' !important;
+}
